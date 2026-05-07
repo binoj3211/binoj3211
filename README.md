@@ -8,8 +8,7 @@
 ---
 
 ### 💻 About Me
-[cite_start]I am a dedicated **MCA graduate** [cite: 8, 33] [cite_start]currently serving as an **IT Administrator & System Analyst** at Elite Extrusion LLC. 
-[cite_start]I specialize in bridging the gap between high-level computer applications and factory-floor operational efficiency[cite: 11].
+[cite_start]I am a dedicated **MCA graduate** [cite: 8, 33] [cite_start]currently serving as an **IT Administrator & System Analyst** at Elite Extrusion LLC[cite: 8, 23]. [cite_start]I specialize in bridging the gap between high-level computer applications and factory-floor operational efficiency[cite: 11].
 
 ---
 
@@ -44,7 +43,7 @@
 ---
 
 ### 🌱 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoj-balachandran-b021a8235/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoj-b-chandran-a663b9248/)]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binojbc3315@gmail.com)
 
 </div>
