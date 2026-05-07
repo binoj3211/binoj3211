@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Binoj%20B%20Chandran&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20IT%20Administrator%20|%20System%20Analyst&descAlignY=55&descSize=18" />
@@ -60,31 +61,15 @@ Motto: "Technology + Innovation = Growth"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=binoj3211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=binoj3211&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoj3211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=binoj3211&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=binoj3211&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" />
+<img width="98%" src="https://streak-stats.demolab.com?user=binoj3211&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-# 🏆 Achievement Showcase
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=binoj3211&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4" />
-
-</div>
-
----
 
 # ⚡ Current Focus
 
